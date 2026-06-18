@@ -32,6 +32,7 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - **Guest Review Frequency Analysis (Column Chart)** – This visualization shows the distribution of review activity by guest, highlighting how many times the same customer booked through Airbnb and submitted reviews.
 - **Review Share Trend Analysis (Ribbon Chart)** – This chart displays the monthly distribution of guest reviews across major Airbnb cities. It enables the analysis of seasonal demand patterns, customer engagement trends, and each city's contribution to overall review activity throughout the year.
 
+## 6. Business Impact & Insights
 
 
 
