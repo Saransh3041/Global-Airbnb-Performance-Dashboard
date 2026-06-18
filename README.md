@@ -25,6 +25,10 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - **Reviews per Reviewer** – Measures the number of reviews submitted by each reviewer, enabling analysis of reviewer engagement and contribution patterns across the platform.
 - **Total Reviewers** – Counts the distinct reviewers who have submitted reviews, helping assess the overall reach and activity of the review community.
 
+## 5. Walkthrough of Key Visuals
+- **Annualy New Linstings Trend Chart**
+
+
 
 
 
