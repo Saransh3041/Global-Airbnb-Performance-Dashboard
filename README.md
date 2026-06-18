@@ -9,7 +9,7 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - Assess guest satisfaction across locations to uncover service quality gaps and improvement areas.
 - Measure customer retention behavior and identify factors limiting repeat bookings despite positive guest experiences.
 
-## ## 3. Tech Stack
+## 3. Tech Stack
 | Tools | Use Case |
 |------------|----------|
 | Power BI Desktop | Used to build the complete interactive dashboard and visual reports. |
@@ -18,6 +18,12 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 | Microsoft Excel | Used for initial data formatting and basic data structuring before loading into Power BI. |
 | Data Modeling & Relationships | Used to connect multiple tables and build a structured data model for accurate analysis. |
 | Interactive Filters & Slicers | Used to make the dashboard dynamic and allow users to filter data for deeper insights. |
+
+## 4. Key PowerBI Measures
+**Cumulative listings** – Calculates a running total of Airbnb listings by city rank, allowing analysis of listing concentration and the contribution of top cities to overall inventory.
+**Cumulative Reviewers** – Computes the cumulative count of distinct reviewers by review frequency, enabling analysis of customer participation trends and the distribution of review activity across the platform.
+**Reviews per Reviewer** – Measures the number of reviews submitted by each reviewer, enabling analysis of reviewer engagement and contribution patterns across the platform.
+
 
 
 
