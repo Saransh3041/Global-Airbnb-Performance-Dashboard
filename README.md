@@ -27,8 +27,11 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 
 ## 5. Walkthrough of Key Visuals
 - **Airbnb New Linsting Lifecycle (Line Chart)** - This visualization tracks the evolution of Airbnb listings over time, showcasing key business phases including introduction, growth, maturity, decline, reinvention, and the impact of COVID-19.
-- **City Market Share Distribution** – Shows how Airbnb listings are concentrated across key cities. The cumulative percentage line reveals that a handful of cities contribute most of the platform's inventory, highlighting market concentration and potential growth opportunities in emerging locations.
-- **City-Level Rating Benchmark** – This table provides a comparative view of guest ratings across multiple service categories and cities. It helps identify strengths, weaknesses, and regional variations in guest satisfaction, supporting data-driven decisions to improve service quality and customer experience.
+- **City Market Share Distribution (Column Chart)** – Shows how Airbnb listings are concentrated across key cities. The cumulative percentage line reveals that a handful of cities contribute most of the platform's inventory, highlighting market concentration and potential growth opportunities in emerging locations.
+- **City-Level Rating Benchmark (Table)** – This table provides a comparative view of guest ratings across multiple service categories and cities. It helps identify strengths, weaknesses, and regional variations in guest satisfaction, supporting data-driven decisions to improve service quality and customer experience.
+- **Guest Review Frequency Analysis** – This visualization shows the distribution of review activity by guest, highlighting how many times the same customer booked through Airbnb and submitted reviews.
+- **Review Share Trend Analysis** – This chart displays the monthly distribution of guest reviews across major Airbnb cities. It enables the analysis of seasonal demand patterns, customer engagement trends, and each city's contribution to overall review activity throughout the year.
+
 
 
 
