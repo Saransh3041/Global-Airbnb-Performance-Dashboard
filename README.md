@@ -26,7 +26,11 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - **Total Reviewers** – Counts the distinct reviewers who have submitted reviews, helping assess the overall reach and activity of the review community.
 
 ## 5. Walkthrough of Key Visuals
-- **Annualy New Linstings Trend Chart**
+- **Airbnb New Linsting Lifecycle (Line Chart)** - This visualization tracks the evolution of Airbnb listings over time, showcasing key business phases including introduction, growth, maturity, decline, reinvention, and the impact of COVID-19.
+- **City Market Share Distribution** – Shows how Airbnb listings are concentrated across key cities. The cumulative percentage line reveals that a handful of cities contribute most of the platform's inventory, highlighting market concentration and potential growth opportunities in emerging locations.
+- **City-Level Rating Benchmark** – This table provides a comparative view of guest ratings across multiple service categories and cities. It helps identify strengths, weaknesses, and regional variations in guest satisfaction, supporting data-driven decisions to improve service quality and customer experience.
+
+
 
 
 
