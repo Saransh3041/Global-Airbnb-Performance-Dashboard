@@ -20,9 +20,10 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 | Interactive Filters & Slicers | Used to make the dashboard dynamic and allow users to filter data for deeper insights. |
 
 ## 4. Key PowerBI Measures
-**Cumulative listings** – Calculates a running total of Airbnb listings by city rank, allowing analysis of listing concentration and the contribution of top cities to overall inventory.
-**Cumulative Reviewers** – Computes the cumulative count of distinct reviewers by review frequency, enabling analysis of customer participation trends and the distribution of review activity across the platform.
-**Reviews per Reviewer** – Measures the number of reviews submitted by each reviewer, enabling analysis of reviewer engagement and contribution patterns across the platform.
+- **Cumulative listings** – Calculates a running total of Airbnb listings by city rank, allowing analysis of listing concentration and the contribution of top cities to overall inventory.
+- **Cumulative Reviewers** – Computes the cumulative count of distinct reviewers by review frequency, enabling analysis of customer participation trends and the distribution of review activity across the platform.
+- **Reviews per Reviewer** – Measures the number of reviews submitted by each reviewer, enabling analysis of reviewer engagement and contribution patterns across the platform.
+- **Total Reviewers** – Counts the distinct reviewers who have submitted reviews, helping assess the overall reach and activity of the review community.
 
 
 
