@@ -33,7 +33,13 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - **Review Share Trend Analysis (Ribbon Chart)** – This chart displays the monthly distribution of guest reviews across major Airbnb cities. It enables the analysis of seasonal demand patterns, customer engagement trends, and each city's contribution to overall review activity throughout the year.
 
 ## 6. Business Impact & Insights
-
+- In 2015, Airbnb reached the highest number of new listings, 2016 and 2017 saw a restraint also due to tightening in local regulations. Despite this, Airbnb became profitable in the second half of 2016 and 2017 marked the first year of generating income. From 2018, there was a new growth stopped in 2019 by the COVID-19 pandemic.
+- Airbnb's listing presence was heavily concentrated in Paris, whereas rapidly growing destinations such as New York, Mexico City, and Cape Town demonstrated strong population and traveler density, indicating potential revenue growth through strategic expansion into underpenetrated markets.
+- Observed that guests consistently preferred premium accommodation types over private and shared rooms, likely due to the combination of competitive pricing, enhanced comfort, and access to luxury amenities, highlighting the importance of value-driven experiences in influencing booking behavior.
+- Reviews provide information about the customer order frequency. Most, of the customers wrote a review only once. 98.8% of customers did so 3 times or less. One customer wrote 283 reviews last two on 13-Oct-20, of two listings in Bangkok. (Data error or globe-trotter?)
+- Over-two-third of Airbnb hosts are fully verified, while nearly all hosts provide at least one trust signal, keeping unverified and anonymous profiles to a minimum.
+- Only 12% of guests making 2–3 repeat bookings despite consistently high review ratings, suggesting that positive guest experiences alone were insufficient to drive loyalty and highlighting opportunities for stronger retention strategies
+- 
 
 
 
