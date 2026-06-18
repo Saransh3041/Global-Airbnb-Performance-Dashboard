@@ -39,7 +39,17 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - Reviews provide information about the customer order frequency. Most, of the customers wrote a review only once. 98.8% of customers did so 3 times or less. One customer wrote 283 reviews last two on 13-Oct-20, of two listings in Bangkok. (Data error or globe-trotter?)
 - Over-two-third of Airbnb hosts are fully verified, while nearly all hosts provide at least one trust signal, keeping unverified and anonymous profiles to a minimum.
 - Only 12% of guests making 2–3 repeat bookings despite consistently high review ratings, suggesting that positive guest experiences alone were insufficient to drive loyalty and highlighting opportunities for stronger retention strategies
-- 
+
+## 6. Conclusion
+The dashboard provides a comprehensive view of Airbnb's global performance, uncovering key trends in market share, guest satisfaction, booking behavior, and customer retention. The analysis highlights growth opportunities, service improvement areas, and retention challenges, enabling more informed business and strategic decisions.
+
+## 7. Author
+**Saransh Goyal**  
+**Email:** goyalsaransh61@gmail.com  
+**LinkedIn:** [linkedin.com/in/saranshgoyal007](https://www.linkedin.com/in/saranshgoyal007/)  
+**GitHub:** [github.com/Saransh3041](https://github.com/Saransh3041)
+
+## 8. Screenshot 
 
 
 
