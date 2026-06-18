@@ -9,6 +9,16 @@ Developed an interactive Airbnb Performance Dashboard to evaluate global market 
 - Assess guest satisfaction across locations to uncover service quality gaps and improvement areas.
 - Measure customer retention behavior and identify factors limiting repeat bookings despite positive guest experiences.
 
+## ## 3. Tech Stack
+| Tools | Use Case |
+|------------|----------|
+| Power BI Desktop | Used to build the complete interactive dashboard and visual reports. |
+| Power Query | Used for cleaning, transforming, and preparing raw data before analysis. |
+| DAX (Data Analysis Expressions) | Used to create calculated columns, measures, KPIs, and business logic. |
+| Microsoft Excel | Used for initial data formatting and basic data structuring before loading into Power BI. |
+| Data Modeling & Relationships | Used to connect multiple tables and build a structured data model for accurate analysis. |
+| Interactive Filters & Slicers | Used to make the dashboard dynamic and allow users to filter data for deeper insights. |
+
 
 
 
